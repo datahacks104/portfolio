@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Muhammad Rehan Siddiqui</title>
+    <link>https://datahacks104.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Muhammad Rehan Siddiqui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://datahacks104.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Data Science Heart Disease Predictor</title>
+      <link>https://datahacks104.github.io/portfolio/post/project-1/</link>
+      <pubDate>Tue, 14 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://datahacks104.github.io/portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates heart disease patients to help people suffering from heart disease. Dataset for training ML model was collected from Kaggle Feature Engineering to select the best features for model training. Used Logistic Regression for classification of heart disease. Built a client facing API using flask      Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: AI Blueprint Suggester</title>
+      <link>https://datahacks104.github.io/portfolio/post/project-2/</link>
+      <pubDate>Sun, 12 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://datahacks104.github.io/portfolio/post/project-2/</guid>
+      <description> Created a tool that estimates your Property/Land width and dimensions and suggests a Blueprint according to your choice. Dataset for training Deep Learning model was collected from UCMerced_LandUse and Google Images Feature Engineering to select the best features for model training. Model was trained on Google Colaboratory Used OpenCV,YoloV3 for Object Detection. Built a client facing API using flask Deployed Flask API to Cloud    </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://datahacks104.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datahacks104.github.io/portfolio/contact/</guid>
+      <description>Follow me on these Social Media Platforms
+   Platform URL     LinkedIn: https://www.linkedin.com/in/muhammad-rehan-siddiqui-48ab951b1   GitHub: https://github.com/datahacks104    </description>
+    </item>
+    
+  </channel>
+</rss>
